@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hello, I'm Joel Reyes
 
-<!--
-**jreyes2-dev/jreyes2-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Software Developer** with a strong interest in backend development and scalable systems, especially in the video game industry.
 
-Here are some ideas to get you started:
+I have been passionate about video games from a young age, which has led me to develop a deep curiosity about how they are designed and how they work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in full-stack application development, with a strong focus on:
+- Backend logic  
+- API design  
+- Database architecture  
+
+I am comfortable working with both relational and non-relational databases, and collaborating within cross-functional teams.
+
+---
+
+## About Me
+
+- Experience in developing and maintaining web applications  
+- Interest in scalable systems and robust backend development  
+- Focused on the video game industry  
+- Teamwork and cross-functional collaboration  
+
+---
+
+## 🛠️⚙️ Technologies
+
+### Programming Languages
+- Java  
+- Kotlin  
+- C#  
+- Python  
+- SQL  
+
+### Technologies & Tools
+- Git  
+- GitHub  
+- GitLab  
+- REST APIs  
+- Full Stack Development  
+
+### Databases
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+
+---
+
+## Contact
+
+- 📧 j2812rn@gmail.com  
+- 📱 +34 622 03 76 89  
+- 💼 LinkedIn  
+- 💻 GitHub  
+---
