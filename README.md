@@ -52,5 +52,5 @@ I am comfortable working with both relational and non-relational databases, and 
 ## Contact
 
 - 📧 j2812rn@gmail.com   
-- 💼   
+- 💼 https://www.linkedin.com/in/joelreyes-dev/
 ---
