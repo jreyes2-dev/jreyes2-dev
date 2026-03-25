@@ -4,7 +4,7 @@
 
 I have been passionate about video games from a young age, which has led me to develop a deep curiosity about how they are designed and how they work under the hood.
 
-I have experience in full-stack application development, with a strong focus on:
+I have experience in full-stack application development, with focus on:
 - Backend logic  
 - API design  
 - Database architecture  
