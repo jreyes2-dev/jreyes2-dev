@@ -51,7 +51,6 @@ I am comfortable working with both relational and non-relational databases, and 
 
 ## Contact
 
-- 📧 j2812rn@gmail.com  
-- 📱 +34 622 03 76 89  
-- 💼 LinkedIn  
+- 📧 j2812rn@gmail.com   
+- 💼   
 ---
