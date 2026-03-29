@@ -1,6 +1,6 @@
 # Hello, I'm Joel Reyes
 
-**Junior Software Developer** with a strong interest in backend development and scalable systems, especially in the video game industry.
+**Software Engenieer** with a strong interest in backend development and scalable systems, especially in the video game industry.
 
 I have been passionate about video games from a young age, which has led me to develop a deep curiosity about how they are designed and how they work under the hood.
 
